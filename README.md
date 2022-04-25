@@ -1,6 +1,6 @@
 # Etude de l'alimentation dans le monde (données FAO)
  
- Projet Openclassrooms - Formation data Analyst  
+ Projet Openclassrooms - Formation Data Analyst  
  (Première utilisation de Python)  
 
 
